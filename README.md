@@ -38,7 +38,7 @@ Designed for stability and visual polish, this project minimizes LCD flicker thr
 
 ---
 
-## Hardware Components
+## Components Used
 
 | Component | Connection | Description |
 |------------|-------------|-------------|
@@ -84,16 +84,16 @@ Designed for stability and visual polish, this project minimizes LCD flicker thr
 
 ---
 
-## Preview
+## Circuit Diagram
 
 | Description | Image |
 |--------------|--------|
-| **Clock Interface** | ![Seal Clock Display](Seal_HUD_Clock_Display.png) |
-| **Background Artwork** | ![Ocean + Seal Background](Seal_HUD_Clock_Background.png) |
+| **System Diagram** | ![Clock Diagram](Arduino%20Mega%20Bluetooth%20Clock%20Circuit%20Diagram.png) |
+| **Actual Build** | ![Actual Circuit](Bluetooth_Clock_Actual_Circuit.jpg) |
 
 ---
 
-## ⚙️ Usage
+## Operation Summary
 
 1. **Upload the sketch** to an Arduino Mega 2560.  
 2. **Connect HC-05 Bluetooth module** to Serial1 (pins 18/19).  
