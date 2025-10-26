@@ -13,7 +13,7 @@ Designed for stability and visual polish, this project minimizes LCD flicker thr
   Accepts either:
   - `HH:MM:SS`  
   - `YYYY-MM-DD HH:MM:SS`  
-  Updates clock in real time upon receiving valid data (Using the Bluetooth_Clock_Sync.apk app).
+  Updates clock in real time upon receiving valid data (Using the [Bluetooth_Clock_Sync.apk](Bluetooth_Clock_Sync.apk) app).
 
 - **Flicker-Free Display**  
   - Opaque redraw for TEMP/HUM text  
