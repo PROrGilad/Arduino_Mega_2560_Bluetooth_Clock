@@ -7,7 +7,7 @@ Designed for stability and visual polish, this project minimizes LCD flicker thr
 
 ---
 
-## Key Features
+## Features
 
 - **Bluetooth Time Sync (HC-05 via Serial1)**  
   Accepts either:
