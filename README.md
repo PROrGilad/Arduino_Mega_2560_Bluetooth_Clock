@@ -86,10 +86,9 @@ Designed for stability and visual polish, this project minimizes LCD flicker thr
 
 ## Circuit Diagram
 
-| Description | Image |
-|--------------|--------|
-| **System Diagram** | ![Clock Diagram](Arduino%20Mega%20Bluetooth%20Clock%20Circuit%20Diagram.png) |
-| **Actual Build** | ![Actual Circuit](Bluetooth_Clock_Actual_Circuit.jpg) |
+| Circuit Diagram | Actual Build |
+|----------|---------------|
+| ![Circuit Diagram](Arduino%20Mega%20Bluetooth%20Clock%20Circuit%20Diagram.png)  |  ![Actual Circuit](Bluetooth_Clock_Actual_Circuit.jpg)  |
 
 ---
 
