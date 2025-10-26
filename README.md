@@ -97,4 +97,4 @@ Designed for stability and visual polish, this project minimizes LCD flicker thr
 
 1. **Upload the sketch** to an Arduino Mega 2560.  
 2. **Connect HC-05 Bluetooth module** to Serial1 (pins 18/19).  
-3. Send a newline-terminated time string via Bluetooth Using the [Bluetooth_Clock_Sync.apk](Arduino_Mega_2560_Bluetooth_Clock/Bluetooth_Clock_Sync.apk) app.
+3. Send a newline-terminated time string via Bluetooth Using the [Bluetooth_Clock_Sync.apk](Bluetooth_Clock_Sync.apk) app.
